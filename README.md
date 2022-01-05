@@ -1,1 +1,1 @@
-# jekins-study
+# jenkins-study
