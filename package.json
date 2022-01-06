@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotus9630/jenkins-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lotus9630/jenkins-study/issues"
+  },
+  "homepage": "https://github.com/lotus9630/jenkins-study#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
